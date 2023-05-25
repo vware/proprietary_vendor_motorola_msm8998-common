@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter beckham chef evert lake payton nash,$(TARGET_DEVICE)),)
+ifneq ($(filter beckham chef evert lake payton nash messi,$(TARGET_DEVICE)),)
 
 endif
